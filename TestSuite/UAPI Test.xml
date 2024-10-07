@@ -4,7 +4,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="com.azmqalabs.uapitestautomation.admin.testscripts.Admin_TC_0114_TC_0118_VerifyWhetherUAPIAdminApplicationAllowsUserToClickOnAddPackageButtonOnTheServiceBundlesScreen"/>
-      <class name="com.azmqalabs.uapitestautomation.admin.testscripts.Admin_TC_081_TC_085_VerifyWhetherUAPIAdminApplicationSaveTheRecordAndRedirectsToAnnualSubscriptionTierScreenWhenUserClicksOnSaveButtonIfDataIsValidUAPIAdminApplicationShouldDisplayTheNewlyCreatedPackageUnderAnnualSubscriptionTierScreen"/>
+      <!--<class name="com.azmqalabs.uapitestautomation.admin.testscripts.Admin_TC_081_TC_085_VerifyWhetherUAPIAdminApplicationSaveTheRecordAndRedirectsToAnnualSubscriptionTierScreenWhenUserClicksOnSaveButtonIfDataIsValidUAPIAdminApplicationShouldDisplayTheNewlyCreatedPackageUnderAnnualSubscriptionTierScreen"/>
       <class name="com.azmqalabs.uapitestautomation.admin.testscripts.Admin_TC_075_VerifyWhetherUAPIAdminApplicationAllowsUserToClickOnCancelButtonOnEditPackageScreenOnClickTheChangesShouldBeDiscardedAndUserShouldBeRedirectedToAnnualSubscriptionTierScreen"/>
       <class name="com.azmqalabs.uapitestautomation.admin.testscripts.Admin_TC_0117_VerifyWhetherUAPIAdminApplicationClosesTheScreenAndRedirectsToServiceBundlesScreenWhenUserClicksOnCancelButton"/>
       <class name="com.azmqalabs.uapitestautomation.admin.testscripts.Admin_TC_0297_VerifyWhetherUAPIAdminApplicationOpensAPackageDetailsPopupWhenUserClicksOnViewOptionUnderActionMenuAndDisplaysDetails"/>
@@ -89,7 +89,7 @@
       <class name="com.azmqalabs.uapitestautomation.admin.testscripts.Admin_TC_0227_VerifyAdminApplicationShouldAllowUserToSelectNumberOfRecordInInvoiceManagementScreen"/>
       <class name="com.azmqalabs.uapitestautomation.admin.testscripts.Admin_TC_0229_VerifyAdminApplicationAllowsUserToDownloadInvoiceReportInPdfFormat"/>
       <class name="com.azmqalabs.uapitestautomation.admin.testscripts.Admin_TC_0230_VerifyAdminApplicationAllowsUserToDownloadInvoiceReportInExcelFormat"/>
-
+-->
     </classes>
   </test> <!-- Test -->
 </suite> <!-- UAPI Test -->

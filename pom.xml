@@ -12,7 +12,8 @@
         <jdk.version>1.8</jdk.version>
         <maven-surefire-plugin.version>2.18.1</maven-surefire-plugin.version>
 
-        <suiteXmlFile/>
+        <!--<suiteXmlFile/>-->
+        <suiteXmlFile>C:\Users\moath.abusall\Desktop\UAPI Auto\TestSuiteCustomer_Parallel/UAPI Test.xml</suiteXmlFile>
 
         <slf4j-simple.version>2.0.9</slf4j-simple.version>
         <slf4j-api.version>2.0.9</slf4j-api.version>
