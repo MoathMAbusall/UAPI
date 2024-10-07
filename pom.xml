@@ -9,7 +9,7 @@
 
 	<properties>
 		<maven-compiler-plugin.version>3.7.0</maven-compiler-plugin.version>
-		<jdk.version>1.8</jdk.version>
+		<jdk.version>17</jdk.version>
 		<maven-surefire-plugin.version>2.18.1</maven-surefire-plugin.version>
 
 		<suiteXmlFile/>
