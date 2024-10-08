@@ -11,7 +11,7 @@
         <maven-compiler-plugin.version>3.10.1</maven-compiler-plugin.version>
         <jdk.version>17</jdk.version>
         <maven-surefire-plugin.version>3.0.0-M5</maven-surefire-plugin.version>
-        <suiteXmlFile>C:\Users\moath.abusall\Desktop\UAPI Auto\TestSuite\Customer_Parallel.xml</suiteXmlFile>
+        <suiteXmlFile>C:\Users\moath.abusall\Desktop\UAPI Auto\TestSuite\UAPI Test.xml</suiteXmlFile>
         <!--<suiteXmlFile/>-->
 
         <slf4j-simple.version>2.0.9</slf4j-simple.version>

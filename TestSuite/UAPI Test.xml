@@ -89,7 +89,7 @@
       <class name="com.azmqalabs.uapitestautomation.admin.testscripts.Admin_TC_0227_VerifyAdminApplicationShouldAllowUserToSelectNumberOfRecordInInvoiceManagementScreen"/>
       <class name="com.azmqalabs.uapitestautomation.admin.testscripts.Admin_TC_0229_VerifyAdminApplicationAllowsUserToDownloadInvoiceReportInPdfFormat"/>
       <class name="com.azmqalabs.uapitestautomation.admin.testscripts.Admin_TC_0230_VerifyAdminApplicationAllowsUserToDownloadInvoiceReportInExcelFormat"/>
--->
+    -->
     </classes>
   </test> <!-- Test -->
 </suite> <!-- UAPI Test -->
