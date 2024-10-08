@@ -8,12 +8,11 @@
     <description>Support All Types of Testing</description>
 
     <properties>
-        <maven-compiler-plugin.version>3.7.0</maven-compiler-plugin.version>
-        <jdk.version>1.8</jdk.version>
-        <maven-surefire-plugin.version>2.18.1</maven-surefire-plugin.version>
-
+        <maven-compiler-plugin.version>3.10.1</maven-compiler-plugin.version>
+        <jdk.version>17</jdk.version>
+        <maven-surefire-plugin.version>3.0.0-M5</maven-surefire-plugin.version>
+        <suiteXmlFile>C:\Users\moath.abusall\Desktop\UAPI Auto\TestSuite\Customer_Parallel.xml</suiteXmlFile>
         <!--<suiteXmlFile/>-->
-        <suiteXmlFile>C:\Users\moath.abusall\Desktop\UAPI Auto\TestSuiteCustomer_Parallel/UAPI Test.xml</suiteXmlFile>
 
         <slf4j-simple.version>2.0.9</slf4j-simple.version>
         <slf4j-api.version>2.0.9</slf4j-api.version>
@@ -452,5 +451,13 @@
             <groupId>org.bouncycastle</groupId>
             <artifactId>bcprov-jdk15on</artifactId>
         </dependency>
+
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.24</version> <!-- or the latest version -->
+            <scope>provided</scope>
+        </dependency>
+
     </dependencies>
 </project>
